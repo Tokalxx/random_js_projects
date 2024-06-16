@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+}
+
+
+#main-body{
+    padding: 5px;
+    width: 35%;
+    border: solid 1px black;
+}
+
+#display{
+    background-color: gray !important;
+    height: 2rem;
+}
+
+#buttonSet{
+    padding: 5px;
+}
+
+.myButton{
+    width: 3rem;
+    height: 2rem;
+}
+
+#equalsButton{
+    width: 3rem;
+    height: 2rem;
+}
+
