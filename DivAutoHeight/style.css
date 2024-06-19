@@ -1,0 +1,24 @@
+.parentDiv{
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+    padding: 5px;
+}
+
+.sub-parentDiv{
+   background-color: lightblue; 
+   overflow: hidden;
+   display: grid;
+   width: 50%;
+   margin: 5px 5px;
+}
+
+.childDiv{
+    padding: 5px;
+    background-color: lightcoral;
+    margin: 5px 5px;
+    height: auto !important;
+    width: 100%;
+}
